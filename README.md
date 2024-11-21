@@ -58,6 +58,8 @@ bun add stan-js
 [![Open in StackBlitz](https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=stackblitz&logoColor=white&labelColor=%231374EF&color=%231374EF
 )](https://stackblitz.com/github/codemask-labs/stan-js/tree/main/examples/nextjs)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/codemask-labs/stan-js)
+
 ## Getting Started
 
 Create a store with initial state:
